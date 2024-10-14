@@ -6,7 +6,7 @@
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact:  I am a Distinction Holder in my College and also won multiple awards in Chess.
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/this_is_tsr/])
+[![Instagram](https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this_is_tsr/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilselvanrangasamy)
 
 - # 💻 Tech Stack:
