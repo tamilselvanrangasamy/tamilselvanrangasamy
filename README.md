@@ -14,8 +14,7 @@
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 ## 🚀 Projects:
--![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
- [Tamilselvan Rangasamy](https://tamilselvanrangasamy.netlify.app/): A personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer. The website features a clean, responsive design and includes sections for my projects, skills, and contact information.
+- [Tamilselvan Rangasamy ](https://tamilselvanrangasamy.netlify.app/)  <br>: A personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer. The website features a clean, responsive design and includes sections for my projects, skills, and contact information.
 
 Technologies Used:
 React: Utilized for building the user interface and managing state efficiently.
