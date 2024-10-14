@@ -16,7 +16,7 @@
 ## 🚀 Projects:
 [Tamilselvan Rangasamy ](https://tamilselvanrangasamy.netlify.app/)  : A personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer. The website features a clean, responsive design and includes sections for my projects, skills, and contact information.<br><br>
 
-<h1>Technologies Used:</h1><br><br>
+<h1>Technologies Used:</h1><br>
 <mark>React</mark>: Utilized for building the user interface and managing state efficiently.<br><br>
 <mark>Bootstrap</mark>: Employed for responsive design and pre-styled components, ensuring a modern and visually appealing layout.<br><br>
 <mark>CSS</mark>: Customized styles to enhance the overall aesthetics and user experience.<br><br>
