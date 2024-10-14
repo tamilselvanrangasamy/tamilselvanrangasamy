@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Research and Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on building a full-stack web application
-- 📫 How to reach me  https://www.linkedin.com/in/tamilselvan-rangasamy-8109141a0
+- 📫 How to reach me  https://www.linkedin.com/in/tamilselvanrangasamy
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact:  I am a Distinction Holder in my College and also won multiple awards in Chess.
 ## 🌐 Socials:
