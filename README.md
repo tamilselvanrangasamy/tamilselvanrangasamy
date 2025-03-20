@@ -73,6 +73,6 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 
 ## 📫 **Contact Me**
 
-- **Email**: [tamilselvan@example.com](mailto:tamilselvanrangasamy1@gmail.com)
+- **Email**: [tamilselvanrangasamy1@gmail.com](mailto:tamilselvanrangasamy1@gmail.com)
 - **LinkedIn**: [Tamilselvan Rangasamy](https://www.linkedin.com/in/tamilselvanrangasamy)
 - **Website**: [My Portfolio](https://tamilselvanrangasamy.netlify.app/)
