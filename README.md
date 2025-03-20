@@ -70,9 +70,3 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 - Build a **real-time** application using **WebSockets** and **Next.js**.
 - Explore **TypeScript** deeper and integrate it into all my projects.
 - Contribute to more **open-source** projects and help the community.
-
-## 📫 **Contact Me**
-
-- **Email**: [tamilselvanrangasamy1@gmail.com](mailto:tamilselvanrangasamy1@gmail.com)
-- **LinkedIn**: [Tamilselvan Rangasamy](https://www.linkedin.com/in/tamilselvanrangasamy)
-- **Website**: [My Portfolio](https://tamilselvanrangasamy.netlify.app/)
