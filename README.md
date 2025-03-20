@@ -1,4 +1,5 @@
-![Demo GIF](https://media.giphy.com/media/3o6ZsY5uex30sT8NwE/giphy.gif)
+![React Demo GIF](https://media.giphy.com/media/6Y2L9glqUg0gFwN2yP/giphy.gif)
+
 # 👋 Hi, I’m **Tamilselvan Rangasamy**
 ---
 - 👀 I’m interested in **Research and Development**.
