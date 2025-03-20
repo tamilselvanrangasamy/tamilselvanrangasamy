@@ -1,5 +1,3 @@
-![Next.js Logo](https://tamilselvanrangasamy.netlify.app/static/media/profile.037a1df0ebd65f8f395f.png)
-
 # 👋 Hi, I’m **Tamilselvan Rangasamy**
 ---
 - 👀 I’m interested in **Research and Development**.
