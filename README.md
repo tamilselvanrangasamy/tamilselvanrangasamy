@@ -1,4 +1,4 @@
-![React Demo GIF](https://media.giphy.com/media/6Y2L9glqUg0gFwN2yP/giphy.gif)
+![Next.js GIF](https://media.tenor.com/images/2f529b54c2693134dbcfbfe37942b597/tenor.gif)
 
 # 👋 Hi, I’m **Tamilselvan Rangasamy**
 ---
