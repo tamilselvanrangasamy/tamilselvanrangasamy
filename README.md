@@ -1,4 +1,4 @@
-![Next.js GIF](https://media.tenor.com/images/2f529b54c2693134dbcfbfe37942b597/tenor.gif)
+![Next.js Logo](https://tamilselvanrangasamy.netlify.app/static/media/profile.037a1df0ebd65f8f395f.png)
 
 # 👋 Hi, I’m **Tamilselvan Rangasamy**
 ---
