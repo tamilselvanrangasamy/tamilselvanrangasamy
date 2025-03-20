@@ -58,3 +58,21 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanrangasamy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+---
+## 🔧 **Code Quality & Best Practices**
+- Writing clean, maintainable, and scalable code.
+- Familiar with **ESLint**, **Prettier**, and **Husky** for enforcing code quality and consistency.
+- Using **Jest** for unit testing React components and **React Testing Library** for integration tests.
+- Implementing **CI/CD** pipelines for automated testing and deployments using **GitHub Actions**.
+---
+## 🎯 **Future Goals**
+- Master **Server-side Rendering** and **Static Site Generation** in **Next.js**.
+- Build a **real-time** application using **WebSockets** and **Next.js**.
+- Explore **TypeScript** deeper and integrate it into all my projects.
+- Contribute to more **open-source** projects and help the community.
+
+## 📫 **Contact Me**
+
+- **Email**: [tamilselvan@example.com](mailto:tamilselvanrangasamy1@gmail.com)
+- **LinkedIn**: [Tamilselvan Rangasamy](https://www.linkedin.com/in/tamilselvanrangasamy)
+- **Website**: [My Portfolio](https://tamilselvanrangasamy.netlify.app/)
