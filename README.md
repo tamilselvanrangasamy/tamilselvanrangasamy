@@ -49,17 +49,19 @@ A personal portfolio website showcasing my skills, projects, and experience as a
 This portfolio demonstrates my ability to create dynamic web applications and showcases my journey in web development.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilselvanrangasamy)
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilselvanrangasamy&show_icons=true&theme=radical)
 
+## 🔥 GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)
+
+## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanrangasamy&layout=compact&theme=radical)
 
----
 ---
 ## 🔧 **Code Quality & Best Practices**
 - Writing clean, maintainable, and scalable code.
