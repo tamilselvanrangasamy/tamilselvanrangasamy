@@ -50,12 +50,13 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 
 ---
 
-## 📊 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilselvanrangasamy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilselvanrangasamy&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanrangasamy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanrangasamy&layout=compact&theme=radical)
 
 ---
 ---
