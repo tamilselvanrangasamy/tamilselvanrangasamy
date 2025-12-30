@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E31B6D&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tamilselvan+Rangasamy;Full+Stack+Developer+%7C+R%26D+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Improving" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
 # 👋 Hi, I’m **Tamilselvan Rangasamy**
 ---
 - 👀 I’m interested in **Research and Development**.
@@ -7,13 +13,13 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I am a **Distinction Holder** in my College and have won multiple **Chess Awards**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this_is_tsr/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilselvanrangasamy)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 💻 **Tech Stack:** 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -34,7 +40,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,tailwind,redux,git,github&perline=8" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🚀 **Projects:**
 
@@ -42,36 +52,41 @@
 A personal portfolio website showcasing my skills, projects, and experience as a **Frontend Developer**. The website features a clean, responsive design and includes sections for my projects, skills, and contact information.
 
 **Technologies Used:**
-- **React**: Utilized for building the user interface and managing state efficiently.
-- **Bootstrap**: Employed for responsive design and pre-styled components, ensuring a modern and visually appealing layout.
-- **CSS**: Customized styles to enhance the overall aesthetics and user experience.
+- **React**
+- **Bootstrap**
+- **CSS**
 
 This portfolio demonstrates my ability to create dynamic web applications and showcases my journey in web development.
 
----
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tamilselvanrangasamy&show_icons=true&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tamilselvanrangasamy&layout=compact&theme=radical)
+## 🧠 Professional Highlights
+- Strong foundation in **Frontend & Full Stack Development**
+- Experience building **responsive, scalable, and maintainable** applications
+- Passionate about **Research & Development**
+- Academic excellence with a **Distinction record**
+- Strategic thinking through **competitive chess**
 
-## 🔥 GitHub Streak
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)
+## 📊 GitHub Activity
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamilselvanrangasamy&theme=radical)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
----
-## 🔧 **Code Quality & Best Practices**
-- Writing clean, maintainable, and scalable code.
-- Familiar with **ESLint**, **Prettier**, and **Husky** for enforcing code quality and consistency.
-- Using **Jest** for unit testing React components and **React Testing Library** for integration tests.
-- Implementing **CI/CD** pipelines for automated testing and deployments using **GitHub Actions**.
----
-## 🎯 **Future Goals**
-- Master **Server-side Rendering** and **Static Site Generation** in **Next.js**.
-- Build a **real-time** application using **WebSockets** and **Next.js**.
-- Explore **TypeScript** deeper and integrate it into all my projects.
-- Contribute to more **open-source** projects and help the community.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamilselvanrangasamy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/tamilselvanrangasamy?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/tamilselvanrangasamy?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://tamilselvanrangasamy.vercel.app/resume">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-%F0%9F%93%84-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
