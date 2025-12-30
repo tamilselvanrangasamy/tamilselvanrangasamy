@@ -49,11 +49,11 @@ A personal portfolio website showcasing my skills, projects, and experience as a
 This portfolio demonstrates my ability to create dynamic web applications and showcases my journey in web development.
 
 ---
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=tamilselvanrangasamy&show_icons=true&theme=radical&cache_seconds=86400" />
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tamilselvanrangasamy&show_icons=true&theme=radical)
 
-<h2>🏆 Top Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanrangasamy&layout=compact&theme=radical&cache_seconds=86400" />
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tamilselvanrangasamy&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
