@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E31B6D&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tamilselvan+Rangasamy;Full+Stack+Developer+%7C+R%26D+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E31B6D&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tamilselvan+Rangasamy;Full+Stack+Developer+%7C;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Improving" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
