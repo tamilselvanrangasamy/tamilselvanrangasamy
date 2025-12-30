@@ -58,6 +58,9 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamilselvanrangasamy&theme=radical)
 
 
 ---
