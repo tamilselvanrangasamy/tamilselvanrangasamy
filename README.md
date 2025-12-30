@@ -49,6 +49,7 @@ A personal portfolio website showcasing my skills, projects, and experience as a
 This portfolio demonstrates my ability to create dynamic web applications and showcases my journey in web development.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilselvanrangasamy)
 
 ## 📊 GitHub Stats
 
