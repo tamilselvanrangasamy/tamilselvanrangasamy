@@ -41,7 +41,7 @@
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,tailwind,redux,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,tailwind,redux,git,github&perline=15" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
