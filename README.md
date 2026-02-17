@@ -4,92 +4,118 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-# 👋 Hi, I’m **Tamilselvan Rangasamy**
+# 👋 Tamilselvan Rangasamy  
+### Frontend / Full-Stack Developer (React | Next.js | TypeScript)
+
+Building high-performance, scalable web applications with a strong focus on user experience and SEO.
+
+- 🚀 3+ years of production experience  
+- ⚡ SSR / SSG performance optimization expert  
+- 🎨 Responsive UI development with Tailwind & Material UI  
+- 🔗 REST API integration & scalable frontend architecture  
+- 🧠 Research-oriented mindset with continuous learning approach  
+- ♟️ Distinction holder & competitive chess achiever  
+- 📫 [LinkedIn](https://linkedin.com/in/tamilselvanrangasamy)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+## 👨‍💻 About Me
+Frontend / Full-Stack Developer with 3+ years of experience building production-grade web applications using React, Next.js, and TypeScript. Specialized in SSR/SSG, performance optimization, and scalable responsive UI development. Passionate about Research & Development, AI-driven solutions, and building real-world business platforms.
+
 ---
-- 👀 I’m interested in **Research and Development**.
-- 🌱 I’m currently learning **Full Stack Development**.
-- 💞️ I’m looking to collaborate on **building a full-stack web application**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tamilselvanrangasamy)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I am a **Distinction Holder** in my College and have won multiple **Chess Awards**.
+
+## 💼 Professional Experience
+**Frontend Developer – Nurture Infotech, Erode | Jan 2023 – Present**  
+- Developed and maintained production-ready React & Next.js applications  
+- Implemented SSR/SSG to improve SEO and page speed by ~35%  
+- Migrated JavaScript codebase to TypeScript, reducing runtime errors by ~45%  
+- Led mobile-first redesign using Tailwind CSS & Material UI  
+- Integrated frontend with REST APIs and optimized Redux state management  
+- Automated deployments with Vercel CI/CD, reducing release time by 40%
+
+---
+
+## 🎓 Education
+- **M.E in Engineering Design** – Nandha Engineering College, Erode (2024)  
+- **B.E in Mechanical Engineering** – Nandha Engineering College, Erode (2021)
+
+---
+
+## 🗣 Languages
+- Tamil (Native), English (Professional), Japanese (Basic)
+
+## 💡 Soft Skills
+- Strategic thinking (Chess player)  
+- Research & problem-solving  
+- Team collaboration & Agile development
+
+---
+
+## 🏆 Achievements
+- Distinction Holder in College  
+- Multiple Chess Awards at state level  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this_is_tsr/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilselvanrangasamy)
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this_is_tsr/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilselvanrangasamy)  
+[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamilselvanrangasamy)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-## 💻 **Tech Stack:** 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></td>
-    <td><img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
-    <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/node.js-%234f8b3d.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
-  </tr>
-</table>
-
-
+## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,tailwind,redux,git,github,mui,fastapi,postman&perline=15" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+---
 
-## 🚀 **Projects:**
+## 🚀 Projects
 
-### [**Tamilselvan Rangasamy**](https://tamilselvanrangasamy.vercel.app/)
-A personal portfolio website showcasing my skills, projects, and experience as a **Frontend Developer**. The website features a clean, responsive design and includes sections for my projects, skills, and contact information.
+### 🌐 AgreedPro – AI Contract Management Platform  
+🔗 [Live Website](https://agreedpro.com/)
 
-**Technologies Used:**
-- **React**
-- **Bootstrap**
-- **CSS**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-This portfolio demonstrates my ability to create dynamic web applications and showcases my journey in web development.
+- 🚀 Built a **production-ready AI-powered contract management platform** to automate legal document workflows  
+- ⚡ Implemented **SSR & SSG**, improving SEO and reducing First Contentful Paint by ~30%  
+- 🎨 Designed reusable, responsive UI components using Tailwind CSS  
+- 🔗 Integrated frontend with backend REST APIs for contract lifecycle management  
+- 🔄 Deployed using **CI/CD on Vercel** for reliable production releases  
+- 👥 Used by internal teams and early users for real-world contract workflows  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+---
 
-## 🧠 Professional Highlights
-- Strong foundation in **Frontend & Full Stack Development**
-- Experience building **responsive, scalable, and maintainable** applications
-- Passionate about **Research & Development**
-- Academic excellence with a **Distinction record**
-- Strategic thinking through **competitive chess**
+### 🌐 DrNexGen – IT & AI Solutions Web Platform  
+🔗 [Live Website](https://drnexgen.com/)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+- 🌍 Developed an **SEO-friendly business website** using React & Next.js  
+- ⚡ Implemented **SSR/SSG**, improving page load speed by ~35%  
+- 📦 Applied lazy loading & code splitting, reducing bundle size by ~30%  
+- 🧩 Built reusable UI components following modern frontend architecture  
+- 🔗 Integrated frontend with backend services via REST APIs  
+- 📱 Ensured cross-browser & cross-device compatibility, reducing UI issues by ~20%  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamilselvanrangasamy&theme=radical)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
