@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tamilselvan+Rangasamy;Full+Stack+Developer+%7C;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Improving" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=5" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=5" />
+
 
 # 👋 Tamilselvan Rangasamy  
 ### Frontend / Full-Stack Developer (React | Next.js | TypeScript)
@@ -23,7 +24,8 @@ Building high-performance, scalable web applications with a strong focus on **us
 - ♟️ Distinction holder & competitive chess achiever  
 - 📫 [LinkedIn](https://linkedin.com/in/tamilselvanrangasamy)
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=5" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=5" />
+
 
 ## 👨‍💻 About Me
 > Frontend / Full-Stack Developer with 3+ years of experience building production-grade web applications using React, Next.js, and TypeScript. Specialized in SSR/SSG, performance optimization, and scalable responsive UI development. Passionate about **Research & Development**, AI-driven solutions, and building real-world business platforms.
@@ -72,7 +74,8 @@ Building high-performance, scalable web applications with a strong focus on **us
   <a href="https://github.com/tamilselvanrangasamy"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=5" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=5" />
+
 
 ## 💻 Tech Stack
 <p align="center">
@@ -119,14 +122,16 @@ Building high-performance, scalable web applications with a strong focus on **us
 - 🧩 Reusable UI components & REST API integration  
 - 📱 Cross-browser/device compatible  
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=5" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=5" />
+
 
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamilselvanrangasamy&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=5" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=5" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamilselvanrangasamy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
@@ -140,4 +145,5 @@ Building high-performance, scalable web applications with a strong focus on **us
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=5" />
+
