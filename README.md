@@ -106,7 +106,7 @@ Building high-performance, scalable web applications with a strong focus on **us
 ---
 
 ### 🌐 DrNexGen – IT & AI Solutions Web Platform  
-🔗 [Live Website](https://drnexgen.com/)
+🔗 [Live Website](https://www.codeselfinfotech.com/)
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
