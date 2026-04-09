@@ -105,7 +105,7 @@ Building high-performance, scalable web applications with a strong focus on **us
 
 ---
 
-### 🌐 DrNexGen – IT & AI Solutions Web Platform  
+### 🌐 Codeself Infotech – IT & AI Solutions Web Platform  
 🔗 [Live Website](https://www.codeselfinfotech.com/)
 
 <p align="center">
