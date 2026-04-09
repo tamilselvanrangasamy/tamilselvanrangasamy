@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=5" />
 
 
-# 👋 Tamilselvan Rangasamy  
+# <center>👋 Tamilselvan Rangasamy  </center>
 ### Frontend / Full-Stack Developer (React | Next.js | TypeScript)
 
 <p align="center">
