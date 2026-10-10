@@ -53,7 +53,7 @@ Building high-performance, scalable web applications with a strong focus on **us
 - Tamil (Native), English (Professional), Japanese (Basic)
 
 ## 💡 Soft Skills
-- Strategic thinking (Chess player)  
+- Strategic thinking 
 - Research & problem-solving  
 - Team collaboration & Agile development
 
